@@ -5,8 +5,8 @@
 ## Outcomes
 - Hands on practise of python Data structures
 - Understanding & implementing time module
-- Understanding the Adjecency list and Adjecency Matrix
-- Understanding the importance of Recursion & Backtracking
+- overview of the Adjecency list and Adjecency Matrix
+- overview of the importance of Recursion & Backtracking
 - Understanding Basics of Graph & Travelling salesman problem
 - Finding various possible routes between starting point & Destination
 - By understanding various possible routes choosing the shortest path available
