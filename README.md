@@ -1,5 +1,5 @@
 # Case-study-of-Fastrack-Courier-company
-## Outcomes
+## Objective
 
 - To understand the courier service backend work 
 - Understand various data structures of python
