@@ -15,3 +15,6 @@
 - Understanding Basics of Graph & Travelling salesman problem
 - Finding various possible routes between starting point & Destination
 - choosing the shortest route available from varius possible route
+
+## Problems Faced - 
+- Recursion & Backtracking
